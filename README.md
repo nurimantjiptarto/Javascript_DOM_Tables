@@ -1,3 +1,6 @@
+# Screenshot to working site 
+![Screenshot](screenshots/working_screenshot.png "Working screenshot")
+
 # Repository Description
 These are are a series of assignments to teach front end JavaScript using pure JavaScript, Bootstrap, Gulp, and BrowserSync
 ## Assignments
@@ -38,5 +41,3 @@ These are are a series of assignments to teach front end JavaScript using pure J
 * [SCSS Homepage](https://sass-lang.com/guide)
 * [Markdown Cheat Sheet Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# Screenshot to working site 
-![Screenshot](screenshots/working_screenshot.png "Working screenshot")
